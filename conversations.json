@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-04-29 14:56",
+    "messages": [
+      {
+        "role": "user",
+        "content": "bonjour"
+      },
+      {
+        "role": "assistant",
+        "content": "Bonjour ! Comment allez-vous aujourd'hui ? Je suis là pour vous aider et vous fournir des informations sur tout ce que vous souhaitez. N'hésitez pas à me poser une question ou à discuter d'un sujet qui vous intéresse. Qu'est-ce que je peux faire pour vous aujourd'hui ?"
+      }
+    ]
+  }
+]
